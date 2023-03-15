@@ -1,2 +1,1 @@
-#!/bin/bash
-echo $(($BEST School))
+#!/bin/bash\nexport BEST="School"
